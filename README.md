@@ -1,18 +1,17 @@
-## Getting Started
+## Calculadoras Basicas 🌸
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+**`Sobre 📌`**
 
-## Folder Structure
+Este rerpositório contém 5 exemplos de casos de uso para calculadoras em Java. 
+Foram minhas primeiras tentativas de implementar resolução de problemas lógicos, portanto, contém exemplos bem simples.
 
-The workspace contains two folders by default, where:
+### Resumo de Cada Exemplo 🧮
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. Informe o número referente á nota de um aluno. Caso o número seja maior do que a média necessária para receber o status "Aprovado", o código imprime o resultado tanto positivo quanto negativo.
+2. Informe 2 números, o código informa qual entre os dois é maior.
+3. Recebe uma variável float "n1" e informa se o número é "par" ou, "impar".
+4. Solicita um número ao usuário, aplica uma função matemática a ele e exibe o resultado.
+5. Calculadora que inclui 4 operações matemáticas. O usuário informa qual operação gostaria de realizar e informa os números envolvidos.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
